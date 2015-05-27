@@ -1,8 +1,7 @@
-Initialize:
+#Project 3 - preprocess
+###Initialize
 1. put the raw training data "Holmes_Training_Data/" here.
-2. run
-    python trimTrainingData.py
-and it will create "trim_Holmes_Training_Data/" folder, which contains header-removed files.
+2. run ```python trimTrainingData.py``` and it will create "trim_Holmes_Training_Data/" folder, which contains header-removed .txt files.
 
 
 
