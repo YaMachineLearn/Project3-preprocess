@@ -21,7 +21,7 @@ Unused parameters <br/>
 ###other utilities
 * Extract sentences that is shorter than a threshold <br/>
 (Before run the following code, you should change the file names or threshold in the .py file)<br/>
-```python cutTrainingData_threshold.py```
+```python extractTrainingData_threshold.py```
 
 * Extract part of training data randomly from training_vxxx_tag.txt or training_vxxx_noTag.txt<br/>
 (Before run the following code, you should change the file names in the .py file)<br/>
