@@ -1,7 +1,7 @@
 import re
 
 CORRECT_ANSWER_FILE = "correctAnswer.csv"
-SUBMIT_ANSWER_FILE = "result.csv"
+SUBMIT_ANSWER_FILE = "TEST_HL128-1_EP1_LR0.004_BS256.csv"
 
 def main():
     correctAnswerIndices = parseAnswerFromCsv(CORRECT_ANSWER_FILE)

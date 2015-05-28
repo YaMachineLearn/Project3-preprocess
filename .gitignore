@@ -1,4 +1,4 @@
 # ignore Data
 Holmes_Training_Data/*
 trim_Holmes_Training_Data/*
-data/*
+output/*
